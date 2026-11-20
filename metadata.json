@@ -1,0 +1,8 @@
+{
+  "name": "I.A FRAGRANCE",
+  "description": "Luxury perfume house offering curated signature fragrances including Pink Lattafa. Discover the art of unforgettable fragrance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
